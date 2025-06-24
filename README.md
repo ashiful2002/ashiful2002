@@ -1,5 +1,5 @@
 ## Hi there 
-< img src="https://github.com/ashiful2002/ashiful2002/blob/main/download.jpeg"/>
+<img src="https://github.com/ashiful2002/ashiful2002/blob/main/download.jpeg"/>
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/ashiful2002) 
 
