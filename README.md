@@ -1,7 +1,5 @@
-## Hi there 
+## Hey there 
 <img src="https://i.ibb.co.com/xSPx8SPr/cover-image.jpg"/>
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/ashiful2002) 
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
