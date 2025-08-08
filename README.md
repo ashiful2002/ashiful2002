@@ -1,6 +1,6 @@
 ## Hey there
 
-<img src="https://i.ibb.co.com/xSPx8SPr/cover-image.jpg"/>
+<img src="https://i.ibb.co.com/5g02yJpC/primary-banner.png"/>
 
 
 ## About Me
