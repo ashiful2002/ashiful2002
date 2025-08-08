@@ -14,3 +14,9 @@
 [![](https://visitcount.itsvg.in/api?id=ashiful2002&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!------------  Contact info ----------->
+## 📞 Contact
+
+- 📧 Email: ashifulislam2002@gmail.com  
+- 📱 Phone: +880 17XX-XXXXXX  
+- 🌐 LinkedIn: [linkedin.com/in/ashifulislam](https://linkedin.com/in/ashifulislam)
