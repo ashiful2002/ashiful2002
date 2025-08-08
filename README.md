@@ -33,13 +33,13 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!------------  Contact info ----------->
-## 📬 Contact Me
+## 📫 Connect With Me
 
-[![Email](https://img.shields.io/badge/Email-ashifulislam2002@gmail.com-red?style=flat&logo=gmail)](mailto:ashifulislam2002@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?style=flat&logo=whatsapp)](https://wa.me/8801759907907)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=flat&logo=vercel)](https://ashifulislam-portfolio-2002.web.app)
+[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ashifulislam2002@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/8801759907907)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashifulislam)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/ashifulislam.mukto)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://ashifulislam-portfolio-2002.web.app)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ashifulislam)
-[![Facebook](https://img.shields.io/badge/Facebook-Profile-1877F2?style=flat&logo=facebook)](https://facebook.com/ashifulislam.mukto)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat&logo=instagram)](https://instagram.com)
 
