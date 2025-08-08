@@ -1,6 +1,18 @@
-## Hey there 
-<img src="https://i.ibb.co.com/xSPx8SPr/cover-image.jpg"/>
+## Hey there
 
+<img src="https://i.ibb.co.com/xSPx8SPr/cover-image.jpg"/>
+## About Me
+  I’m Ashiful Islam, a passionate full stack web developer with a focus on frontend technologies. I enjoy crafting clean, responsive, and user-friendly web applications that bring ideas to life. Constantly learning new tools and frameworks, I’m eager to solve real-world problems through code. Let’s build something amazing together!
+
+🚀 Current Activities
+Exploring advanced features of Next.js for server-side rendering.
+
+-Integrating SSLcommerz payment gateway.
+-Testing APIs using Postman.
+-Diving deep into backend development with Node.js and Express.
+
+
+  
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -16,6 +28,7 @@
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -28,8 +41,17 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ashiful2002&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🛠 Skills
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+
 <!------------  Contact info ----------->
 ## 📫 Connect With Me
 
@@ -37,7 +59,6 @@
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/8801759907907)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashifulislam)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/ashifulislam.mukto)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://ashifulislam-portfolio-2002.web.app)
 
 
