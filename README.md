@@ -1,7 +1,6 @@
-## Hey there
+## hello, welcome to my github!
 
-<img src="https://i.ibb.co.com/5g02yJpC/primary-banner.png"/>
-
+<img src="https://i.ibb.co.com/5g02yJpC/primary-banner.png" alt="banner-image"/>
 
 ## About Me
 
