@@ -4,9 +4,9 @@
 ## About Me
   I’m Ashiful Islam, a passionate full stack web developer with a focus on frontend technologies. I enjoy crafting clean, responsive, and user-friendly web applications that bring ideas to life. Constantly learning new tools and frameworks, I’m eager to solve real-world problems through code. Let’s build something amazing together!
 
-🚀 Current Activities
-Exploring advanced features of Next.js for server-side rendering.
+## Current Activities
 
+-Exploring advanced features of Next.js for server-side rendering.
 -Integrating SSLcommerz payment gateway.
 -Testing APIs using Postman.
 -Diving deep into backend development with Node.js and Express.
@@ -31,7 +31,7 @@ Exploring advanced features of Next.js for server-side rendering.
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div>
   <img src="https://github-readme-stats.vercel.app/api?username=ashiful2002&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
   <br />
   <img src="https://nirzak-streak-stats.vercel.app/?user=ashiful2002&theme=dark&hide_border=false" alt="GitHub Streak" />
