@@ -1,15 +1,19 @@
 ## Hey there
 
 <img src="https://i.ibb.co.com/xSPx8SPr/cover-image.jpg"/>
+
+
 ## About Me
+
+
   I’m Ashiful Islam, a passionate full stack web developer with a focus on frontend technologies. I enjoy crafting clean, responsive, and user-friendly web applications that bring ideas to life. Constantly learning new tools and frameworks, I’m eager to solve real-world problems through code. Let’s build something amazing together!
 
 ## Current Activities
 
--Exploring advanced features of Next.js for server-side rendering.
--Integrating SSLcommerz payment gateway.
--Testing APIs using Postman.
--Diving deep into backend development with Node.js and Express.
+- Exploring advanced features of Next.js for server-side rendering.
+- Integrating SSLcommerz payment gateway.
+- Testing APIs using Postman.
+- Diving deep into backend development with Node.js and Express.
 
 
   
