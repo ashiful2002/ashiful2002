@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co.com/5g02yJpC/primary-banner.png" alt="banner-image"/>
+<img src="https://github.com/ashiful2002/ashiful2002/blob/main/primary%20banner.png" alt="banner-image"/>
 
 
 ## About Me
