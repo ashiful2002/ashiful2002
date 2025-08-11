@@ -20,11 +20,13 @@
 # 💻 Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,firebase,nodejs,mongodb,tailwind" />
+    <img src="https://skillicons.dev/icons?i=html5,css3,bootstrap,tailwind,js,react,framer-motion,firebase,nodejs,express,mongodb,figma,restapi,git,github,nextjs,postman,stripe,sslcommerz,npm" />
   </a>
 </p>
 
 
+
+<!-----------
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -38,6 +40,9 @@
 ![SweetAlert2](https://img.shields.io/badge/SweetAlert2-%23FF5A5F?style=for-the-badge&logo=sweetalert&logoColor=white)
 ![React Hot Toast](https://img.shields.io/badge/React_Hot_Toast-F37254?style=for-the-badge&logo=react&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+
+------------>
 
 
 ## 📊 GitHub Stats
