@@ -20,9 +20,10 @@
 # 💻 Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html5,css3,bootstrap,tailwind,js,react,framer-motion,firebase,nodejs,express,mongodb,figma,restapi,git,github,nextjs,postman,stripe,sslcommerz,npm" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,framer,firebase,nodejs,express,mongodb,figma,git,github,nextjs,postman,npm" />
   </a>
 </p>
+
 
 
 
