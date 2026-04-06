@@ -67,16 +67,12 @@
 ## 📊 GitHub Stats
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=ashiful2002&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api?username=ashiful2002&theme=dark&show_icons=true" alt="GitHub Stats" />
   <br />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ashiful2002&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashiful2002&theme=dark" alt="GitHub Streak" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashiful2002&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ashiful2002&theme=dark&layout=compact" alt="Top Languages" />
 </div>
-
----
-[![](https://visitcount.itsvg.in/api?id=ashiful2002&icon=0&color=0)](https://visitcount.itsvg.in)
-
 
 <!------------  Contact info ----------->
 ## 📫 Connect With Me
