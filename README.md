@@ -1,13 +1,15 @@
 <img src="https://github.com/ashiful2002/ashiful2002/blob/main/primary%20banner.png" alt="banner-image"/>
 
 # Hi, I'm Ashiful Islam  
-**Web Developer** | React | Node.js | Express| MongoDB
+**Web Developer** | Node.js | Express| TypeScript | PostgreSQL | Mongodb | Prisma ORM | Next.js  | 
 
 
 ## About Me
 
-  I’m Ashiful Islam, a passionate full stack web developer with a focus on frontend technologies. I enjoy crafting clean, responsive, and user-friendly web applications that bring ideas to life. Constantly learning new tools and frameworks, I’m eager to solve real-world problems through code. Let’s build something amazing together!
+  I’m Ashiful Islam, a passionate full stack web developer with a focus on Backend technologies. I enjoy crafting clean, responsive, and user-friendly web applications that bring ideas to life. Constantly learning new tools and frameworks, I’m eager to solve real-world problems through code. Let’s build something amazing together!
 
+
+<!-----------
 ## Current Activities
 
 - Exploring advanced features of Next.js for server-side rendering.
@@ -25,9 +27,9 @@
 </p>
 
 
+ ----------->
 
 
-<!-----------
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -43,7 +45,7 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 
------------->
+
 
 
 ## 📊 GitHub Stats
