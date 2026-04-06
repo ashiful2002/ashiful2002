@@ -66,7 +66,7 @@
 
 ## 📊 GitHub Stats
 
-<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 10px;">
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <img src="https://github-readme-stats.shion.dev/api?username=ashiful2002&theme=dark&show_icons=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ashiful2002&theme=dark&layout=compact" alt="Top Languages" width="48%" />
 </div>
