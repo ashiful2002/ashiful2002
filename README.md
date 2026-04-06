@@ -45,12 +45,17 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![pnpm](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220)
+![Bcrypt](https://img.shields.io/badge/Bcrypt-373737?style=for-the-badge&logo=generic&logoColor=white)
 
 ### 🌐 Frontend & Full-Stack
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![daisyUI](https://img.shields.io/badge/daisyUI-5AD7E4?style=for-the-badge&logo=daisyui&logoColor=black)
+![Bcrypt](https://img.shields.io/badge/Bcrypt-373737?style=for-the-badge&logo=generic&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 ![SweetAlert2](https://img.shields.io/badge/SweetAlert2-%23FF5A5F?style=for-the-badge&logo=sweetalert&logoColor=white)
 ![React Hot Toast](https://img.shields.io/badge/React_Hot_Toast-F37254?style=for-the-badge&logo=react&logoColor=white)Ï
