@@ -66,12 +66,15 @@
 
 ## 📊 GitHub Stats
 
-<div>
-  <img src="https://github-readme-stats.shion.dev/api?username=ashiful2002&theme=dark&show_icons=true" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashiful2002&theme=dark" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ashiful2002&theme=dark&layout=compact" alt="Top Languages" />
+<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 10px;">
+  <img src="https://github-readme-stats.shion.dev/api?username=ashiful2002&theme=dark&show_icons=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ashiful2002&theme=dark&layout=compact" alt="Top Languages" width="48%" />
+</div>
+
+<br />
+
+<div style="display: flex; justify-content: center;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashiful2002&theme=dark" alt="GitHub Streak" width="100%" />
 </div>
 
 <!------------  Contact info ----------->
