@@ -1,6 +1,6 @@
 <img src="https://github.com/ashiful2002/ashiful2002/blob/main/primary%20banner.png" alt="banner-image"/>
 
-# Hi, I'm Ashiful Islam  
+# Hi, I'm Ashiful Islam Mukto
 **Web Developer** | Node.js | Express| TypeScript | PostgreSQL | Mongodb | Prisma ORM | Next.js  | 
 
 
