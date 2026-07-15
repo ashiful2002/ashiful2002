@@ -1,4 +1,4 @@
-<img src="https://github.com/ashiful2002/ashiful2002/blob/main/primary%20banner.png" alt="banner-image"/>
+<img src="https://i.ibb.co.com/bMmRPf6v/Chat-GPT-Image-Jul-15-2026-07-23-11-PM.png" alt="banner-image"/>
 
 # Hi, I'm Ashiful Islam Mukto
 **Web Developer** | Node.js | Express| TypeScript | PostgreSQL | Mongodb | Prisma ORM | Next.js  | 
