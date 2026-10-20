@@ -6,7 +6,7 @@
 
 <!-- ============== INTRODUCTION ============== -->
 
-<h1 align="center">Hi, I'm Ashiful Islam Mukto 👋</h1>
+<h1 align="center">Hi, I'm Ashiful Islam Mukto</h1>
 
 <h3 align="center">
   Full-Stack Developer · Backend-Focused Engineer
@@ -38,12 +38,12 @@ I'm a software developer passionate about building modern web applications, with
 
 I enjoy turning complex requirements into maintainable, efficient, and user-friendly software. From designing REST APIs and managing databases to building responsive interfaces, I care about the quality of the entire development process.
 
-- 🔭 **Focus:** Backend engineering and full-stack application development.
-- ⚙️ **Core stack:** TypeScript, Node.js, Express.js, PostgreSQL, and Prisma.
-- 🗄️ **Databases:** PostgreSQL and MongoDB.
-- 🌐 **Frontend:** React, Next.js, and Tailwind CSS.
-- 🔐 **Interests:** API design, authentication, database modeling, and application architecture.
-- 📚 **Mindset:** Continuously learning, improving, and building practical solutions.
+- **Focus:** Backend engineering and full-stack application development.
+- **Core stack:** TypeScript, Node.js, Express.js, PostgreSQL, and Prisma.
+- **Databases:** PostgreSQL and MongoDB.
+- **Frontend:** React, Next.js, and Tailwind CSS.
+- **Interests:** API design, authentication, database modeling, and application architecture.
+- **Mindset:** Continuously learning, improving, and building practical solutions.
 
 ---
 
@@ -93,8 +93,9 @@ I enjoy turning complex requirements into maintainable, efficient, and user-frie
 </p>
 
 ---
+<!--
 
-## 🚀 Featured Projects
+## Featured Projects
 
 I believe the best way to demonstrate engineering skills is through real projects.
 
@@ -105,6 +106,10 @@ Explore my repositories to see what I'm building, how I approach problems, and t
     <img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub repositories" />
   </a>
 </p>
+
+
+-->
+
 
 <!--
 Replace the placeholders below with your strongest projects.
@@ -145,7 +150,7 @@ A concise explanation of the problem, your solution, and its impact.
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 I'm always happy to connect with developers, exchange ideas, and explore opportunities to build meaningful software.
 
