@@ -1,93 +1,178 @@
-<img src="https://i.ibb.co.com/bMmRPf6v/Chat-GPT-Image-Jul-15-2026-07-23-11-PM.png" alt="banner-image"/>
+<!-- ============== PROFILE BANNER ============== -->
 
-# Hi, I'm Ashiful Islam Mukto
-**Software Developer** | Node.js | Express| TypeScript | PostgreSQL | Mongodb | Prisma ORM | Next.js  | 
-
-
-## About Me
-
-  I’m Ashiful Islam, a passionate full stack web developer with a focus on Backend technologies. I enjoy crafting clean, responsive, and user-friendly web applications that bring ideas to life. Constantly learning new tools and frameworks, I’m eager to solve real-world problems through code. Let’s build something amazing together!
-
-
-<!-----------
-## Current Activities
-
-- Exploring advanced features of Next.js for server-side rendering.
-- Integrating SSLcommerz payment gateway.
-- Testing APIs using Postman.
-- Diving deep into backend development with Node.js and Express.
-
-
-  
-# 💻 Tech Stack:
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,nextjs,nodejs,express,mongodb,typescript,firebase,figma,git,github,postman,npm" />
+  <img src="https://i.ibb.co.com/bMmRPf6v/Chat-GPT-Image-Jul-15-2026-07-23-11-PM.png" alt="Ashiful Islam Mukto — Software Developer" width="100%" />
+</p>
+
+<!-- ============== INTRODUCTION ============== -->
+
+<h1 align="center">Hi, I'm Ashiful Islam Mukto 👋</h1>
+
+<h3 align="center">
+  Full-Stack Developer · Backend-Focused Engineer
+</h3>
+
+<p align="center">
+  I build reliable backend systems, well-designed APIs, and modern web applications.
+  <br />
+  Focused on clean code, thoughtful architecture, and solving real-world problems.
+</p>
+
+<p align="center">
+  <a href="https://ashiful-islam.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/ashifulislam">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ashifulislam2002@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
+---
 
- ----------->
+## 👨‍💻 About Me
 
+I'm a software developer passionate about building modern web applications, with a particular interest in **backend development, API engineering, and database-driven systems**.
 
+I enjoy turning complex requirements into maintainable, efficient, and user-friendly software. From designing REST APIs and managing databases to building responsive interfaces, I care about the quality of the entire development process.
 
-### 🖥️ Backend & Infrastructure
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-![REST_API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=google-cloud&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![pnpm](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220)
-![Bcrypt](https://img.shields.io/badge/Bcrypt-373737?style=for-the-badge&logo=generic&logoColor=white)
+- 🔭 **Focus:** Backend engineering and full-stack application development.
+- ⚙️ **Core stack:** TypeScript, Node.js, Express.js, PostgreSQL, and Prisma.
+- 🗄️ **Databases:** PostgreSQL and MongoDB.
+- 🌐 **Frontend:** React, Next.js, and Tailwind CSS.
+- 🔐 **Interests:** API design, authentication, database modeling, and application architecture.
+- 📚 **Mindset:** Continuously learning, improving, and building practical solutions.
 
-### 🌐 Frontend & Full-Stack
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
-![daisyUI](https://img.shields.io/badge/daisyUI-5AD7E4?style=for-the-badge&logo=daisyui&logoColor=black)
-![Bcrypt](https://img.shields.io/badge/Bcrypt-373737?style=for-the-badge&logo=generic&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
-![SweetAlert2](https://img.shields.io/badge/SweetAlert2-%23FF5A5F?style=for-the-badge&logo=sweetalert&logoColor=white)
-![React Hot Toast](https://img.shields.io/badge/React_Hot_Toast-F37254?style=for-the-badge&logo=react&logoColor=white)Ï
+---
 
+## 🛠️ Technology Stack
 
+### Backend Engineering
 
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/REST%20APIs-2563EB?style=flat-square&logo=fastapi&logoColor=white" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/Bcrypt-4A5568?style=flat-square&logoColor=white" alt="Bcrypt" />
+</p>
 
+### Databases & ORM
 
-## 📊 GitHub Stats
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma ORM" />
+</p>
 
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <img src="https://github-readme-stats.shion.dev/api?username=ashiful2002&theme=dark&show_icons=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ashiful2002&theme=dark&layout=compact" alt="Top Languages" width="48%" />
-</div>
+### Frontend Development
 
-<br />
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white" alt="Axios" />
+</p>
 
-<div style="display: flex; justify-content: center;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashiful2002&theme=dark" alt="GitHub Streak" width="100%" />
-</div>
+### Tools & Infrastructure
 
-<!------------  Contact info ----------->
-## 📫 Connect With Me
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" alt="npm" />
+  <img src="https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white" alt="pnpm" />
+</p>
 
-[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ashifulislam2002@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/8801759907907)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashifulislam)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://ashiful-islam.vercel.app)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/ashifulislam.mukto)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ashifulislammukto/)
-[![X](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Mini_Mukto)
+---
 
+## 🚀 Featured Projects
 
+I believe the best way to demonstrate engineering skills is through real projects.
 
+Explore my repositories to see what I'm building, how I approach problems, and the technologies I use.
 
+<p align="center">
+  <a href="https://github.com/ashiful2002?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub repositories" />
+  </a>
+</p>
+
+<!--
+Replace the placeholders below with your strongest projects.
+
+## Project Name
+A concise explanation of the problem, your solution, and its impact.
+
+- Tech: TypeScript, Node.js, Express, PostgreSQL, Prisma
+- Highlights: Authentication, validation, error handling, database design
+- Live Demo: YOUR_LIVE_URL
+- Source Code: YOUR_REPOSITORY_URL
+-->
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ashiful2002&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
+    alt="Ashiful's GitHub statistics"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashiful2002&layout=compact&theme=github_dark&hide_border=true"
+    alt="Most-used programming languages"
+    height="170"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=ashiful2002&theme=github-dark-blue&hide_border=true"
+    alt="GitHub contribution streak"
+    width="70%"
+  />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always happy to connect with developers, exchange ideas, and explore opportunities to build meaningful software.
+
+<p align="center">
+  <a href="mailto:ashifulislam2002@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/ashifulislam">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://ashiful-islam.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://wa.me/8801759907907">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="https://facebook.com/ashifulislam.mukto">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://www.instagram.com/ashifulislammukto/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://x.com/Mini_Mukto">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Building with purpose. Learning continuously. Improving with every commit.</i>
+</p>
