@@ -32,18 +32,15 @@
 
 ---
 
-## About Me
+### 👨‍💻 About Me
 
-I'm a software developer passionate about building modern web applications, with a particular interest in **backend development, API engineering, and database-driven systems**.
+I'm a software developer with a strong focus on backend architecture, API engineering, and responsive full-stack applications. I care about writing clean, maintainable code—from schema design to responsive user interfaces.
 
-I enjoy turning complex requirements into maintainable, efficient, and user-friendly software. From designing REST APIs and managing databases to building responsive interfaces, I care about the quality of the entire development process.
-
-- **Focus:** Backend engineering and full-stack application development.
-- **Core stack:** TypeScript, Node.js, Express.js, PostgreSQL, and Prisma.
-- **Databases:** PostgreSQL and MongoDB.
-- **Frontend:** React, Next.js, and Tailwind CSS.
-- **Interests:** API design, authentication, database modeling, and application architecture.
-- **Mindset:** Continuously learning, improving, and building practical solutions.
+- **Focus:** Backend engineering & modern full-stack web applications
+- **Backend & APIs:** `TypeScript` `Node.js` `Express.js` `REST APIs`
+- **Frontend:** `React` `Next.js` `Tailwind CSS`
+- **Data & Tools:** `PostgreSQL` `MongoDB` `Prisma` `Git`
+- **Areas of Interest:** System design, secure authentication, database optimization
 
 ---
 
@@ -152,7 +149,6 @@ A concise explanation of the problem, your solution, and its impact.
 
 ##  Let's Connect
 
-I'm always happy to connect with developers, exchange ideas, and explore opportunities to build meaningful software.
 
 <p align="center">
   <a href="mailto:ashifulislam2002@gmail.com">
@@ -178,6 +174,4 @@ I'm always happy to connect with developers, exchange ideas, and explore opportu
   </a>
 </p>
 
-<p align="center">
-  <i>Building with purpose. Learning continuously. Improving with every commit.</i>
-</p>
+
